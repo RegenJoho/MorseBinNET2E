@@ -1,0 +1,4 @@
+MorseBinNET2E	KEYWORD1
+send	KEYWORD2
+receive	KEYWORD2
+placeRequest	KEYWORD2
